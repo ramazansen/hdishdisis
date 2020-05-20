@@ -20,61 +20,61 @@
 
   "news.description": "Welcome!\n This is where we share the latest news from the Polytopia universe. Stay tuned!",
 
-  "gamemodepicker.title": "GAME MODE",
+  "gamemodepicker.title": "Oyun Modu",
 
-  "tribepicker.title": "PICK YOUR TRIBE",
+  "tribepicker.title": "Irkını Seç",
 
-  "tribepicker.categories.humantribes": "Regular Tribes",
+  "tribepicker.categories.humantribes": "Temel Irklar",
 
-  "tribepicker.categories.specialtribes": "Special Tribes",
+  "tribepicker.categories.specialtribes": "Özel Irklar",
 
-  "tribepicker.categories.specialtribes.description": "A collection of tribes that are a bit out of this world...",
+  "tribepicker.categories.specialtribes.description": "Bu Dünyadan değil gibiler...",
 
-  "tribepicker.categories.random": "Let fate decide!",
+  "tribepicker.categories.random": "Seçimi kadere bırak!",
 
-  "tribepicker.categories.random.button": "RANDOM TRIBE",
+  "tribepicker.categories.random.button": "Rastgele Irk",
 
-  "tribepicker.categories.random.selected.title": "Alakazam!",
+  "tribepicker.categories.random.selected.title": "Abra Kadabra!",
 
-  "tribepicker.categories.random.selected.text": "Random tribe selected",
+  "tribepicker.categories.random.selected.text": "Rastgele Irk Seçildi",
 
-  "tribepicker.restore": "restore purchases",
+  "tribepicker.restore": "satın alımları geri yüklr",
 
-  "tribepicker.restoring": "restoring...",
+  "tribepicker.restoring": "geri yükleniyor...",
 
-  "tribepicker.reset": "reset purchases",
+  "tribepicker.reset": "satın alımları sıfırla",
 
   "tribepicker.tba": "TBA",
 
-  "tribepicker.underconstruction": "Under Construction",
+  "tribepicker.underconstruction": "Yakında",
 
-  "tribepicker.underconstruction.description": "We are still working on inventing this tribe. Growing fruits, developing languages and architecture. That takes time you know. Follow @Midjiwan on Instagram or Twitter and you will be the first to know when new tribes arrive!",
+  "tribepicker.underconstruction.description": "Henüz bu ırk üzerinde çalışıyoruz. Meyve yetiştirmek, dil ve mimariyi oluşturmak bilirsiniz ki zaman alıyor. Instagram veya Twitter üzerinden @Midjiwan'ı takip edin ve yeni ırklardan anında haberdar olun!",
 
-  "tribepicker.freetribe": "Free Tribe",
+  "tribepicker.freetribe": "Ücretsiz Irk",
 
-  "tribepicker.freetribe.description": "This tribe is available for free and cannot be purchased to enable online multiplayer.",
+  "tribepicker.freetribe.description": "Bu ırk ücretsiz olarak kullanılabilir ancak çevrimiçi oyun etkinleştirmek için satın alınamaz.",
 
-  "tribepicker.taken": "Taken",
+  "tribepicker.taken": "Alınmış",
 
-  "tribepicker.enable": "ENABLE",
+  "tribepicker.enable": "Etkinleştir",
 
-  "tribepicker.disable": "DISABLE",
+  "tribepicker.disable": "Devre Dışı Bıral",
 
-  "tribepicker.disabled": "disabled",
+  "tribepicker.disabled": "Devre Dışı Bırakılmış",
 
-  "tribepicker.disabled.description": "Tribe disabled, it cannot be used by you or the AI.",
+  "tribepicker.disabled.description": "Irk devre dışı bırakıldı. Siz veya yapay zeka tarafından kullanılamaz.",
 
-  "tribepicker.pick": "PICK",
+  "tribepicker.pick": "Seç",
 
-  "tribepicker.yourname": "Your name",
+  "tribepicker.yourname": "Adınız",
 
-  "tribepicker.anonymous": "Anonymous",
+  "tribepicker.anonymous": "Anonim",
 
-  "tribepicker.firstplayer": "First player must be a human",
+  "tribepicker.firstplayer": "İlk oyuncu insan olmalı",
 
-  "tribepicker.pickyour": "Pick your tribe",
+  "tribepicker.pickyour": "Irkını Seç",
 
-  "tribepicker.playertype": "Player type",
+  "tribepicker.playertype": "Oyuncu Tipi",
 
   "tribepicker.news.readmore": "Read more...",
 
@@ -90,7 +90,7 @@
 
   "tribepicker.mapsize": "Map Size: {0} tiles",
 
-  "tribepicker.gamemode": "Game Mode: {0}",
+  "tribepicker.gamemode": "Oyun Modu: {0}",
 
   "gamesettings.title": "GAME SETUP",
 
