@@ -184,21 +184,21 @@
 
   "gamemode.domination": "Hakimiyet",
 
-  "gamemode.domination.description.button": "Play until there is only one tribe left, with no time limit.",
+  "gamemode.domination.description.button": "Tüm böcekleri ez ve mutlak hakimiyeti sağla!Süre sınırı yok.",
 
-  "gamemode.domination.description": "Wipe all the other tribes from the face of the square. There can be only one.",
+  "gamemode.domination.description": "Tüm düşman ırkları yen ve sona kalan tek ırk ol.",
 
-  "gamemode.domination.win": "You have defeated all the other tribes and unified the entire square!",
+  "gamemode.domination.win": "Tüm böcekler ezildi. Irkımısın şanı sonsuzluk içinde yankılanacak!",
 
-  "gamemode.domination.loss": "Your last city was lost, you have been defeated.",
+  "gamemode.domination.loss": "Son şehrin düştü. Kaybettin.",
 
-  "gamemode.glory.caps": "GLORY",
+  "gamemode.glory.caps": "Şan",
 
-  "gamemode.glory": "Glory",
+  "gamemode.glory": "Şan",
 
-  "gamemode.glory.description": "First to reach {0} points win",
+  "gamemode.glory.description": "{0} puana ilk ulaşan",
 
-  "gamemode.glory.win": "The {0} points score was reached!",
+  "gamemode.glory.win": "{0} puana ulaşıldı!",
 
   "gamemode.might.caps": "MIGHT",
 
@@ -1070,7 +1070,7 @@
   "mplayerstats.lost": "Feeling lost? Check the:",
   "credits.title": "Hakkında",
   "credits.subtitle": "Yapımcı Bilgileri",
-  "credits.midjiwan": "Battle of Polytopia;Stockholm,İsveç'de bulunan,bağımsız bir oyun stüdyosu olan Midjiwan tarafından yaratılmaktadır.(Çeviri hakkında öneri,şikayet vs. için Instangram:@ramsen3458'e yazabilirsiniz.)",
+  "credits.midjiwan": "Battle of Polytopia;Stockholm,İsveç'de bulunan,bağımsız bir oyun stüdyosu olan Midjiwan tarafından yaratılmaktadır.           (Çeviri hakkında öneri,şikayet vs. için Instangram:@ramsen3458'e yazabilirsiniz.)",
   "credits.learnmore1": "Her şeyi bilmek ister misin?",
   "credits.learnmore2": "Polytopia topluluğu tarafından oluşturulan Wikipedia veritabanına göz atın:",
   "credits.wiki": "Polytopia Wiki",
