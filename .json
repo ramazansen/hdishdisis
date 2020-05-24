@@ -192,23 +192,23 @@
 
   "gamemode.domination.loss": "Son şehrin düştü. Kaybettin.",
 
-  "gamemode.glory.caps": "Şan",
+  "gamemode.glory.caps": "Gelişim",
 
-  "gamemode.glory": "Şan",
+  "gamemode.glory": "Gelişim",
 
-  "gamemode.glory.description": "{0} puana ilk ulaşan",
+  "gamemode.glory.description": "{0} puana ilk ulaşan kazanır",
 
   "gamemode.glory.win": "{0} puana ulaşıldı!",
 
-  "gamemode.might.caps": "MIGHT",
+  "gamemode.might.caps": "Hakimiyet",
 
-  "gamemode.might": "Might",
+  "gamemode.might": "Hakimiyet",
 
-  "gamemode.might.description": "Capture all capitals to win",
+  "gamemode.might.description": "Kazanmak için tüm şehirleri ele geçir",
 
-  "gamemode.might.win": "All capitals were captured",
+  "gamemode.might.win": "Tüm şehirler sende. Kazandın!",
 
-  "gamemode.death": "Your last city was lost, you have been defeated.",
+  "gamemode.death": "Son şehrin de düştü. Kaybettin.",
 
   "world.intro.title": "Mighty Leader!",
 
