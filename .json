@@ -210,83 +210,83 @@
 
   "gamemode.death": "Son şehrin de düştü. Kaybettin.",
 
-  "world.intro.title": "Mighty Leader!",
+  "world.intro.title": "Hey Şef!",
 
-  "world.intro.text": "You have been chosen to rule the {0} tribe. Explore the world and expand your empire, but watch out for the other tribes.",
+  "world.intro.text": "Halkımız {0} kabilesini yönetmen için seni seçti. Dünyayı keşfet ve imparatorluğumuzu geliştir! Bu arada diğer ırklara da dikkat et.",
 
-  "world.intro.objective": "Objective: {0}",
+  "world.intro.objective": "Hedef: {0}",
+Ĺ
+  "world.turn.end": "Turu Sonlandır",
 
-  "world.turn.end": "End Turn",
+  "world.turn.end.question": "Tur sonlandırılsın mı?",
 
-  "world.turn.end.question": "End your turn?",
+  "world.turn.end.confirm": "Onayla",
 
-  "world.turn.end.confirm": "Confirm",
+  "world.turn.next": "Sonraki Tur",
 
-  "world.turn.next": "Next Turn",
+  "world.turn.finish": "Oyunu Bitir",
 
-  "world.turn.finish": "Finish Game",
+  "world.turn.nomoves": "Hamle kalmadı, turu sonlandır",
 
-  "world.turn.nomoves": "No more moves available, end turn",
+  "world.turn.start": "Başla",
 
-  "world.turn.start": "START",
+  "world.turn.exit": "Çıkış",
 
-  "world.turn.exit": "Exit",
+  "world.turn.waiting": " {0}'in oynaması bekleniyor ...",
 
-  "world.turn.waiting": "Waiting for {0} to play...",
+  "world.turn.waiting.unknown": "Bilinmeyen bir ırkın oynaması bekleniyor...",
 
-  "world.turn.waiting.unknown": "Waiting for an unknown tribe to play...",
+  "world.turn.ready": "Hazır olduğunda kaydete bas",
 
-  "world.turn.ready": "Tap save when ready",
+  "world.turn.your": "Senin sıran",
 
-  "world.turn.your": "Your turn",
+  "world.turn.remaining": "{0} tur kaldı",
 
-  "world.turn.remaining": "{0} turns left",
+  "world.turn.last": "Son tur!",
 
-  "world.turn.last": "Last turn!",
+  "world.turn.replaying": "Yeniden oynatılıyor...",
 
-  "world.turn.replaying": "Replaying...",
+  "world.unit.info.from": "{0} ırkının.",
 
-  "world.unit.info.from": "From the city of {0}.",
+  "world.unit.veteran": "Bu birim gelişmiş.",
 
-  "world.unit.veteran": "This unit is a veteran.",
+  "world.unit.veteran.progress": "Bu birimin gelişmesine {0}/{1} öldürme kaldı.",
 
-  "world.unit.veteran.progress": "{0}/{1} to become a veteran.",
+  "world.unit.ability": "Birim Özellikleri",
 
-  "world.unit.ability": "Unit Ability",
+  "world.unit.health": "Can",
 
-  "world.unit.health": "Health",
+  "world.unit.attack": "Saldırı",
 
-  "world.unit.attack": "Attack",
+  "world.unit.defence": "Zırh",
 
-  "world.unit.defence": "Defence",
+  "world.unit.movement": "Hareket",
 
-  "world.unit.movement": "Movement",
+  "world.unit.range": "Menzil",
 
-  "world.unit.range": "Range",
+  "world.unit.disembark.title": "Ayrıl? {0}",
 
-  "world.unit.disembark.title": "Leave {0}",
+  "world.unit.disembark.message": "Bu birimi karaya çıkarırsan {0}n yok olacak.Devam?.",
 
-  "world.unit.disembark.message": "Disembarking this unit will dismantle your {0}. Do you wish to proceed?",
+  "world.unit.evolve": "Biriminiz {0}'a yükseltildi!",
 
-  "world.unit.evolve": "Your unit has grown to a {0}!",
+  "world.unit.evolve.title": "Birim Gelişti",
 
-  "world.unit.evolve.title": "Unit Growth",
+  "world.unit.dissolved": "Birim dağıtıldı ",
 
-  "world.unit.dissolved": "Your unit has dissolved",
+  "world.building.info": "{0} Şehri",
 
-  "world.building.info": "The city of {0}",
-
-  "world.building.village": "Village",
+  "world.building.village": "Köy",
 
   "world.building.capture.ready": "Will be ready to capture next turn",
 
-  "world.building.capture.ready.title": "Entering {0}!",
+  "world.building.capture.ready.title": "{0} Şehrine Giriliyor!",
 
-  "world.building.capture.warning": "Capturing will be completed next turn if you don't stop them.",
+  "world.building.capture.warning": "İptal etmezseniz kuşatma bir sonraki tur tamamlanacak.",
 
-  "world.building.capture.warning.title": "{0} is under siege!",
+  "world.building.capture.warning.title": "{0} şehri kuşatma altında!",
 
-  "world.attract.sanctuary": "Your sanctuary has attracted a wild animal!",
+  "world.attracted.sanctuary": "Your sanctuary has attracted a wild animal!",
 
   "world.loading": "LOADING {0}%",
 
